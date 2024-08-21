@@ -66,7 +66,7 @@ python datasets.py
 | Attention-LSTM    | 0.0807 | 0.0146 | 0.1208 | 0.6455 |
 | Attention-Seq2Seq | 0.1351 | 0.0325 | 0.1802 | 0.3101 |
 | Attention-CNN-LSTM| 0.0949 | 0.0155 | 0.1246 | 0.6729 |
-| `MA-Mamba` | `0.0234` |   `0.0009`   | `0.1622` |  `0.9766` |
+| `MA-Mamba` | `0.0234` |   `0.0009`   | `0.0296` |  `0.9766` |
 
 
 ### Results of ablation experiments on the model<br>
