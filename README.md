@@ -66,7 +66,7 @@ python datasets.py
 | Attention-LSTM    | 0.0807 | 0.0146 | 0.1208 | 0.6455 |
 | Attention-Seq2Seq | 0.1351 | 0.0325 | 0.1802 | 0.3101 |
 | Attention-CNN-LSTM| 0.0949 | 0.0155 | 0.1246 | 0.6729 |
-| [A-MC-Mamba](https://github.com/gityihang/MA-Mamba.git) | `0.0234` |   `0.0009`   | `0.1622` |  `0.9766` |
+| `MA-Mamba` | `0.0234` |   `0.0009`   | `0.1622` |  `0.9766` |
 
 
 ### Results of ablation experiments on the model<br>
@@ -90,7 +90,7 @@ Constructing water quality index level prediction using water quality indicators
 |:------------------------------------------------------------------|:-------------:|:----------:|:----------:|
 | XGBoost       | 0.97 | 0.97 | 0.96 | 
 | Decision Tree | 0.91 | 0.94 | 0.92 | 
-| `A-MC-Mamba `   |`0.91`|`0.93`|`0.92`| 
+| `MA-Mamba `   |`0.91`|`0.93`|`0.92`| 
 | BP            | 0.83 | 0.87 | 0.82 | 
 | SVM           | 0.75 | 0.76 | 0.74 | 
 | KNeighbours   | 0.75 | 0.76 | 0.74 | 
